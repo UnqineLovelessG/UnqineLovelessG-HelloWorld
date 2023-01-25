@@ -16,6 +16,6 @@ public class HelloWorld {
         System.out.println("Hello, world!");
     }
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
     }
 }
